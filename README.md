@@ -2,8 +2,6 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Currently I'm Computer Science Student at <a href="https://mu.ac.in/">University Of Mumbai</a></em></p>
 
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/pawan-kumavat-6742b522b-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawan-kumavat-6742b522b/)](https://www.linkedin.com/in/pawan-kumavat-6742b522b/)
 [![GitHub pawantech12](https://img.shields.io/github/followers/pawantech12?label=follow&style=social)](https://github.com/pawantech12)
 
 
