@@ -1,6 +1,6 @@
-## 🚀 About Me
+# 🚀 About Me
 
-# Hi, I'm Pawan Kumavat! 👋
+## Hi, I'm Pawan Kumavat! 👋
 <p><em>Currently I'm Computer Science Student at <a href="https://mu.ac.in/">University Of Mumbai</a></em></p>
 
 [![GitHub pawantech12](https://img.shields.io/github/followers/pawantech12?label=follow&style=social)](https://github.com/pawantech12)
