@@ -12,15 +12,15 @@
 ```javascript
 const pawan = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
+    code: ["Javascript", "html", "css", "PHP"],
     askMeAbout: ["web development", "backend", "database", "javascript"],
     technologies: {
         backEnd: [PHP, JavaScript],
         frontend: [HTML5, CSS3, JavaScript],
         databases: ["mongo", "MySql"],
-        frameworks: ["BootStrap","Tailwind","jQuery"]
+        frameworks: ["BootStrap","reactjs","jQuery"]
     },
-    currentFocus: "No Focus point at this time",
+    currentFocus: "Full Stack Developer",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
