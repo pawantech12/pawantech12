@@ -60,7 +60,7 @@ My dream is to become a skilled MERN Stack developer, and I'm constantly learnin
 
 #### Connect with Me
 
-<ul style="list-style-type: none;display:flex;gap:1rem;align-items:center;">
+<ul style="list-style-type:none;display:flex;gap:1rem;align-items:center;">
 
 <li>
 
