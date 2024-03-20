@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
 <div>
 <img src="https://media.licdn.com/dms/image/D4E16AQE_OcrhD17jSw/profile-displaybackgroundimage-shrink_350_1400/0/1709895533148?e=1716422400&v=beta&t=ebV1MYkcy1Z2p5emXYHPXZQAHH1DpKkaSe4F6UQOIRc" width="100%" style="border-radius:10px;object-fit:cover;">
 </div>
