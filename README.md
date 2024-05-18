@@ -64,25 +64,22 @@ My dream is to become a skilled MERN Stack developer, and I'm constantly learnin
 
 #### Connect with Me
 
-<ul class="social-links">
-
-<li>
+<a>
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:pawankumavat042@gmail.com)
 
-</li>
-<li>
+</a>
+<a>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pawan-kumavat-11b105297/)
 
-</li>
-<li>
+</a>
+<a>
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/codewithpawan/)
 
-</li>
+</a>
 
-</ul>
 <br>
 
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=pawantech12&theme=dark)
