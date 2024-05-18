@@ -81,5 +81,5 @@ My dream is to become a skilled MERN Stack developer, and I'm constantly learnin
 </a>
 
 <br>
-
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=pawantech12&theme=dark)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
