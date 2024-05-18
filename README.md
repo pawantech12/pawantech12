@@ -1,5 +1,5 @@
 <head>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <div>
 <img src="https://github.com/pawantech12/pawantech12/assets/118673866/a8413b3e-c148-4f76-a06e-ce6a37417177" width="100%" style="border-radius:10px;object-fit:cover;">
@@ -64,7 +64,7 @@ My dream is to become a skilled MERN Stack developer, and I'm constantly learnin
 
 #### Connect with Me
 
-<ul style="list-style-type:none;display:flex;gap:1rem;align-items:center;">
+<ul class="social-links">
 
 <li>
 
