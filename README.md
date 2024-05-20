@@ -82,19 +82,21 @@ My dream is to become a skilled MERN Stack developer, and I'm constantly learnin
 
 <br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-100-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 78.6 kB Used in GitHub's Storage 
+> 📦 78.7 kB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 47 Public Repositories 
+> 📜 46 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -138,10 +140,10 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            ██████████░░░░░░░░░░░░░░░   39.13 % 
-HTML                     15 repos            ████████░░░░░░░░░░░░░░░░░   32.61 % 
-CSS                      11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+JavaScript               19 repos            ██████████░░░░░░░░░░░░░░░   40.43 % 
+HTML                     15 repos            ████████░░░░░░░░░░░░░░░░░   31.91 % 
+CSS                      11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
 
@@ -151,5 +153,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pawantech12/pawantech12/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2024 00:44:38 UTC
+ Last Updated on 20/05/2024 00:42:13 UTC
 <!--END_SECTION:waka-->
