@@ -1,14 +1,12 @@
-<head>
-  <link rel="stylesheet" href="css/style.css">
-</head>
+
 <div>
 <img src="https://github.com/pawantech12/pawantech12/assets/118673866/a8413b3e-c148-4f76-a06e-ce6a37417177" width="100%" style="border-radius:10px;object-fit:cover;">
 </div>
 
 
-### Pawan Kumavat - Aspiring MERN Stack Developer
+# Pawan Kumavat - Aspiring MERN Stack Developer
 
-#### About Me
+## About Me
 
 <div>
 <p style="color:white">I'm a passionate web developer currently pursuing a B.Sc. in Computer Science at the University of Mumbai. 
@@ -16,7 +14,7 @@ My dream is to become a skilled MERN Stack developer, and I'm constantly learnin
 
 </div>
 
-#### What I'm good at:
+## What I'm good at:
 
 <div style="color:white">
 
@@ -28,7 +26,7 @@ My dream is to become a skilled MERN Stack developer, and I'm constantly learnin
 
 </div>
 
-#### What I'm currently learning:
+## What I'm currently learning:
 
 <div style="color:white">
 
@@ -36,33 +34,33 @@ My dream is to become a skilled MERN Stack developer, and I'm constantly learnin
 - Next.js
 </div>
 
-#### My Skills:
+## My Skills:
 
-##### Frontend technologies:
+### Frontend technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,bootstrap,tailwind,materialui,redux)](https://skillicons.dev)
 
-##### Backend technologies:
+### Backend technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,php,java,npm)](https://skillicons.dev)
 
-##### Databases:
+### Databases:
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
-##### Version Control:
+### Version Control:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-##### Tools:
+### Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,netlify,vercel)](https://skillicons.dev)
 
-#### Let's Build Something Great Together!
+## Let's Build Something Great Together!
 
 <p style="color:white">I'm always looking for opportunities to collaborate on new projects and learn from others. Feel free to reach out if you have any questions or interesting ideas!</p>
 
-#### Connect with Me
+## Connect with Me
 
 <a>
 
