@@ -79,7 +79,11 @@ My dream is to become a skilled MERN Stack developer, and I'm constantly learnin
 </a>
 
 <br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=pawantech12&theme=onestar)
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-166-blue)
