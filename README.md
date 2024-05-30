@@ -80,8 +80,6 @@ My dream is to become a skilled MERN Stack developer, and I'm constantly learnin
 
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=pawantech12&theme=onestar)
-
 <!--START_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
