@@ -87,13 +87,13 @@ My dream is to become a skilled MERN Stack developer, and I'm constantly learnin
 
 **🐱 My GitHub Data** 
 
-> 📦 79.2 kB Used in GitHub's Storage 
+> 📦 79.3 kB Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2024
+> 🏆 76 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 52 Public Repositories 
+> 📜 53 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -139,10 +139,10 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               25 repos            ████████████░░░░░░░░░░░░░   47.17 % 
-HTML                     15 repos            ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-CSS                      11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+JavaScript               26 repos            ████████████░░░░░░░░░░░░░   48.15 % 
+HTML                     15 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+CSS                      11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
@@ -152,5 +152,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pawantech12/pawantech12/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2024 00:45:40 UTC
+ Last Updated on 03/06/2024 00:43:38 UTC
 <!--END_SECTION:waka-->
