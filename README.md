@@ -89,6 +89,8 @@ My dream is to become a skilled MERN Stack developer, and I'm constantly learnin
 
 > 📦 77.9 kB Used in GitHub's Storage 
  > 
+> 🏆 75 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 55 Public Repositories 
@@ -150,5 +152,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pawantech12/pawantech12/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2024 00:49:29 UTC
+ Last Updated on 15/07/2024 00:46:42 UTC
 <!--END_SECTION:waka-->
