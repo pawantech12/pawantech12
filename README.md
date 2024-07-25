@@ -81,13 +81,13 @@ My dream is to become a skilled MERN Stack developer, and I'm constantly learnin
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 79.1 kB Used in GitHub's Storage 
+> 📦 80.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 76 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -150,5 +150,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pawantech12/pawantech12/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 00:45:49 UTC
+ Last Updated on 25/07/2024 00:45:01 UTC
 <!--END_SECTION:waka-->
