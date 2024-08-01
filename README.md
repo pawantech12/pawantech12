@@ -1,6 +1,6 @@
 
 <div>
-![full-stack-banner](https://github.com/user-attachments/assets/bc6861c4-7f34-4d0e-8125-5d254e8df249)
+<img src="https://github.com/user-attachments/assets/bc6861c4-7f34-4d0e-8125-5d254e8df249" width="100%" style="border-radius:10px;object-fit:cover;"/>
 </div>
 
 
