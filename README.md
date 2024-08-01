@@ -56,7 +56,7 @@ I'm constantly exploring new technologies and methodologies to improve my skills
 
 ## 🤝 Let's Connect
 
-Feel free to connect with me on [LinkedIn](your-linkedin-profile-url) or reach out via email at [pawankumavat042@gmail.com](mailto:pawankumavat042@gmail.com). I’m always open to discussing new opportunities, collaborations, or just connecting with fellow tech enthusiasts.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pawan-kumavat-11b105297/) or reach out via email at [pawankumavat042@gmail.com](mailto:pawankumavat042@gmail.com). I’m always open to discussing new opportunities, collaborations, or just connecting with fellow tech enthusiasts.
 
 Thank you for visiting my profile!
 <br>
