@@ -1,7 +1,8 @@
 
 <div>
-<img src="https://github.com/pawantech12/pawantech12/assets/118673866/a8413b3e-c148-4f76-a06e-ce6a37417177" width="100%" style="border-radius:10px;object-fit:cover;">
+![full-stack-banner](https://github.com/user-attachments/assets/bc6861c4-7f34-4d0e-8125-5d254e8df249)
 </div>
+
 
 
 # 👋 Hello, I'm Pawan Kumavat !
