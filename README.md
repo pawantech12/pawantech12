@@ -4,80 +4,60 @@
 </div>
 
 
-# Pawan Kumavat - Aspiring MERN Stack Developer
+# 👋 Hello, I'm Pawan Kumavat !
 
-## About Me
+Welcome to my GitHub profile! I'm a recent Computer Science graduate from the University of Mumbai, passionate about building and designing web applications. With a strong foundation in both front-end and back-end technologies, I'm eager to contribute to exciting projects and continuously expand my skill set.
+## 🚀 Skills & Technologies
 
-<div>
-<p style="color:white">I'm a passionate web developer currently pursuing a B.Sc. in Computer Science at the University of Mumbai. 
-My dream is to become a skilled MERN Stack developer, and I'm constantly learning and adding new tools to my belt.</p>
+- **Front-End Development:**  
+  - HTML, CSS, JavaScript
+  - TailwindCSS (1 year)
+  - Bootstrap (3 years)
 
-</div>
+- **Back-End Development:**  
+  - PHP (3 years)
+  - MySQL (3 years)
+  - MERN Stack (7 months)
+    - MongoDB
+    - Express.js
+    - React
+    - Node.js
 
-## What I'm good at:
+- **Additional Expertise:**  
+  - Authentication & Authorization Systems
+  - Password Encryption (npm libraries)
+  - JWT (JSON Web Tokens)
+  - Git & GitHub
+  - API Development & Integration
+  - Postman
 
-<div style="color:white">
 
-- Crafting beautiful and user-friendly interfaces using <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>ReactJS</code>, <code>Bootstrap</code>, and <code>Tailwind CSS</code>.
-- Building robust backends with <code>Node.js</code>, <code>Express.js</code>, <code>MongoDB</code>, and even <code>PHP</code> with <code>MySQL</code>.
-- Embracing new technologies and constantly improving my skillset.
-- Writing clean, maintainable code that follows best practices and industry standards.
-- Collaborating effectively in a team environment to deliver high quality projects on time.
+## 💼 Services I Provide
 
-</div>
+- **Web Development:**  
+  Custom web applications and websites using HTML, CSS, JavaScript, TailwindCSS, and Bootstrap.
 
-## What I'm currently learning:
+- **Full-Stack Development:**  
+  End-to-end solutions with MERN stack (MongoDB, Express.js, React, Node.js) including both front-end and back-end development.
 
-<div style="color:white">
+- **Back-End Development:**  
+  PHP and MySQL solutions, including server-side scripting and database management.
 
-- Java ☕
-- Next.js
-</div>
+- **API Development & Integration:**  
+  Creating and integrating APIs to enhance functionality and connect with third-party services.
 
-## My Skills:
+- **Authentication & Security:**  
+  Implementing secure authentication and authorization systems, including JWT and password encryption.
 
-### Frontend technologies:
+## 📚 Learning & Growth
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,bootstrap,tailwind,materialui,redux)](https://skillicons.dev)
+I'm constantly exploring new technologies and methodologies to improve my skills. Whether it's mastering a new framework, optimizing performance, or diving into the latest industry trends, I'm committed to continuous learning.
 
-### Backend technologies:
+## 🤝 Let's Connect
 
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,php,java,npm)](https://skillicons.dev)
+Feel free to connect with me on [LinkedIn](your-linkedin-profile-url) or reach out via email at [pawankumavat042@gmail.com](mailto:pawankumavat042@gmail.com). I’m always open to discussing new opportunities, collaborations, or just connecting with fellow tech enthusiasts.
 
-### Databases:
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
-
-### Version Control:
-
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
-### Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,netlify,vercel)](https://skillicons.dev)
-
-## Let's Build Something Great Together!
-
-<p style="color:white">I'm always looking for opportunities to collaborate on new projects and learn from others. Feel free to reach out if you have any questions or interesting ideas!</p>
-
-## Connect with Me
-
-<a>
-
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:pawankumavat042@gmail.com)
-
-</a>
-<a>
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pawan-kumavat-11b105297/)
-
-</a>
-<a>
-
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/codewithpawan/)
-
-</a>
-
+Thank you for visiting my profile!
 <br>
 
 <!--START_SECTION:waka-->
