@@ -64,11 +64,13 @@ Thank you for visiting my profile!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 84.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 84 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -131,5 +133,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/pawantech12/pawantech12/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2024 00:47:07 UTC
+ Last Updated on 14/08/2024 00:46:12 UTC
 <!--END_SECTION:waka-->
